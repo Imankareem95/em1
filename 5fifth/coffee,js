@@ -1,0 +1,8 @@
+let img = document.querySelector(".img1");
+
+
+function meal(meals) {
+    img.src = meals;
+
+}
+
